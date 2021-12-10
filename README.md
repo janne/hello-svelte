@@ -1,6 +1,6 @@
 # Hello Svelte app
 
-Playing with [Svelte](https://svelte.dev) apps. It lives at https://hello-svelte-one.vercel.com.
+Playing with [Svelte](https://svelte.dev) apps. It lives at https://hello-svelte-one.vercel.app.
 
 ## Get started
 
